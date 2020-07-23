@@ -13,7 +13,8 @@ str=$(cat strfile)
 IFS=' '
 read -ra ADDR <<< "$str"
 img=$(echo ${ADDR[1]})
-img2=$(echo ${ADDR[3]})
+# second image from reddit "hot", it's optional! :)
+#img2=$(echo ${ADDR[3]}) 
 
 # temporal files, don't worry about it
 rm -rf strfile
