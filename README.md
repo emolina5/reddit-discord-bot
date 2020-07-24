@@ -26,4 +26,4 @@ $ sudo ./reddit-discord-bot.sh // or // sudo bash reddit-discord-bot.sh
 
 ### License
 
-It's free real state!
+It's free real estate!
